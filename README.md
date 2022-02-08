@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dandersonTAK
-- 👀 I’m interested in launching a career programming in C++.
-- 🌱 I’m currently learning C and DSP concepts as they related to C++ and Octave.
+- 👀 I’m interested in transitioning my programming career to one that focuses heavily on C++.
+- 🌱 I’m currently learning C, as well as DSP concepts as they relate to C++ and Octave.
 - 📫 How to reach me: 
       Email: anderson.dane.98@gmail.com
       LinkedIn: https://www.linkedin.com/in/dane-anderson-tak/
